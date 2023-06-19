@@ -1,0 +1,19 @@
+{
+  "name": "command-executer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHOPAZ/Command-executer.git"
+  },
+  "author": "Pavel Kvasnicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHOPAZ/Command-executer/issues"
+  },
+  "homepage": "https://github.com/CHOPAZ/Command-executer#readme"
+}
