@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/CHOPAZ/Command-executer/issues"
   },
-  "homepage": "https://github.com/CHOPAZ/Command-executer#readme"
+  "homepage": "https://github.com/CHOPAZ/Command-executer#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
 }
